@@ -5,4 +5,10 @@
 <a href="https://www.facebook.com/nishantkantojha/" target="blank"><img align="center" src="Icons/facebook.svg" alt="garudaa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src="Icons/instagram.svg" alt="garudaa" height="30" width="40" /></a>
 <a href="https://twitter.com/nishantkantojha" target="blank"><img align="center" src="Icons/twitter.svg" alt="garudaa" height="30" width="40" /></a>
+
+
 </p>
+<p align ="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nishantkantojha" alt="visitor badge"/></p>
+
+
