@@ -1,3 +1,4 @@
+<img src = "/Icons/Images/Abstract Technology Profile LinkedIn Banner.png"> </img>
 <h1 style = font-size: "50px" align="center"> Hi <img src="Icons/Telegram Emojis/waving-hand.gif" width="40">, I'm Nishant</h1>
 <h4 align="center"><img align="center" src="Icons/Telegram Emojis/face-with-monocle.gif" height="30" width="30" /> Open Source Developer |<img align="center" src="Icons/Telegram Emojis/fire-1.gif" height="30" width="30" /> Competitive Programming Enthusiast | <img align="center" src="Icons/Telegram Emojis/Video-Game.gif" height="30" width="30" /> Game Addict</h4>
 <p align="center">
