@@ -8,7 +8,7 @@
 <h1 align="center">Motivation</h1>
 
 <h4 align="center">
- It is not the language that makes programs appear simple. It is the programmer that makes the language appear simple!
+ It is not the language that makes program appear simple. It is the programmer that makes the language appear simple!
 </h4>
 </p>
 <p align ="center">
