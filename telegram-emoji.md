@@ -19,6 +19,16 @@
 |`drolling-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/drooling-face.gif"/>|
 |`expressionless-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/expressionless-face.gif"/>|
 |`exploding-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/exploding-face.gif"/>|
+|`face-blowing-a-kiss`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-blowing-a-kiss.gif"/>|
+|`face-screaming-in-fear`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-screaming-in-fear.gif"/>|
+|`face-vomiting`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-vomiting.gif"/>|
+|`face-with-hand-over-mouth`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-hand-over-mouth.gif"/>|
+|`face-with-monocle`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-monocle.gif"/>|
+|`face-with-open-mouth|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-open-mouth.gif"/>|
+|`face-with-steam-from-nose`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-steam-from-nose.gif"/>|
+|`face-with-symbols-on-mouth`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-symbols-on-mouth.gif"/>|
+|`face-with-tears-of-joy`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-tears-of-joy.gif"/>|
+|`face-with-thermometer`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-thermometer.gif"/>|
 |`grinning-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face.gif"/>|
 |`grinning-face-with-big-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-big-eyes.gif"/>
 |`grinning-face-with-smiling-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-smiling-eyes.gif"/>
