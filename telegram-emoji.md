@@ -15,6 +15,9 @@
 |`crying-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/crying-face.gif"/>|
 |`disappointed-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/disappointed-face.gif"/>|
 |`disguised-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/disguised-face.gif"/>|
+|`downcast-face-with-sweat`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/downcast-face-with-sweat.gif"/>|
+|`drolling-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/drooling-face.gif"/>|
+|`expressionless-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/expressionless-face.gif"/>|
 |`grinning-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face.gif"/>|
 |`grinning-face-with-big-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-big-eyes.gif"/>
 |`grinning-face-with-smiling-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-smiling-eyes.gif"/>
