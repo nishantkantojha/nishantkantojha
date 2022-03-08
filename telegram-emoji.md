@@ -36,6 +36,8 @@
 |`face-with-tongue`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-tongue.gif"/>|
 |`face-without-mouth`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-without-mouth.gif"/>|
 |`fearful-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/fearful-face.gif"/>|
+|`flushed-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/flushed-face.gif"/>|
+|`frowning-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/frowning-face.gif"/>|
 |`grinning-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face.gif"/>|
 |`grinning-face-with-big-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-big-eyes.gif"/>
 |`grinning-face-with-smiling-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-smiling-eyes.gif"/>
