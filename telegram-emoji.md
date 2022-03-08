@@ -110,7 +110,7 @@
 |`collision`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/collision.gif"/>|
 |`right-anger-bubble`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/right-anger-bubble.gif"/>|
 |`speech-balloon`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/speech-balloon.gif"/>|
-|`speech-balloon`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/speech-balloon.gif"/>|
+|`speech-balloon-burst`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/speech-balloon-burst.gif"/>|
 |`clown-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/clown-face.gif"/>|
 |`ghost`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/ghost.gif"/>|
 |`jack-o-lantern`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/jack-o-lantern.gif"/>|
