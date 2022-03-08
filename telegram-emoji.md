@@ -13,3 +13,4 @@
 |`rolling-on-the-floor-laughing`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/rolling-on-the-floor-laughing.gif"/>
 |`face-with-tears-of-joy`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-tears-of-joy.gif"/>
 |`upside-down-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/upside-down-face.gif"/>
+|`winking-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/winking-face.gif"/>
