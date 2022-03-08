@@ -1,7 +1,12 @@
 
 
-`https://github.com/nishantkantojha/nishantkantojha/blob/main/telegram-emoji/<emoji-tag>.gif`
+`https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/<emoji-tag>.gif`
 
-|Name|Emoji|SUNTAX|
-|---|---|---|
-|grinning-face|<img align="center" src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/telegram-emoji/Beating-Heart.gif" height="30" width="30" />|`https://www.emojiall.com/images/60/telegram/1f600.gif`|
+|`emoji-tag`|`emoji`|
+|---|---|
+|grinning-face|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face.gif"/>|
+|grinning-face-with-big-eyes|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-big-eyes.gif"/>
+|grinning-face-with-smiling-eyes|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-smiling-eyes.gif"/>
+|beaming-face-with-smiling-eyes|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/beaming-face-with-smiling-eyes.gif"/>
+|grinning-squinting-face|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-squinting-face.gif"/>
+|grinning-face-with-sweat|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-sweat.gif"/>
