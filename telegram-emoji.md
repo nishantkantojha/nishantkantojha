@@ -49,6 +49,15 @@
 |`hushed-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/hushed-face.gif"/>|
 |`kissing-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/kissing-face.gif"/>|
 |`kissing-face-with-smiling-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/kissing-face-with-smiling-eyes.gif"/>|
+|`kissing-face-with-closed-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/kissing-face-with-closed-eyes.gif"/>|
+|`lying-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/lying-face.gif"/>|
+|`loudly-crying-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/loudly-crying-face.gif"/>|
+|`money-mouth-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/money-mouth-face.gif"/>|
+|`nerd-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/nerd-face.gif"/>|
+|`nauseated-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/nauseated-face.gif"/>|
+|`neutral-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/neutral-face.gif"/>|
+|`partying-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/partying-face.gif"/>|
+|`pensive-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/pensive-face.gif"/>|
 |`rolling-on-the-floor-laughing`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/rolling-on-the-floor-laughing.gif"/>
 |`face-with-tears-of-joy`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-tears-of-joy.gif"/>
 |`upside-down-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/upside-down-face.gif"/>
