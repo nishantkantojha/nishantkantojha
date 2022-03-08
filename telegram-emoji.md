@@ -58,7 +58,11 @@
 |`neutral-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/neutral-face.gif"/>|
 |`partying-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/partying-face.gif"/>|
 |`pensive-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/pensive-face.gif"/>|
-|`rolling-on-the-floor-laughing`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/rolling-on-the-floor-laughing.gif"/>
+|`pouting-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/pouting-face.gif"/>|
+|`relieved-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/relieved-face.gif"/>|
+|`pleading-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/pleading-face.gif"/>|
+|`rolling-on-the-floor-laughing`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/rolling-on-the-floor-laughing.gif"/>|
+|`slightly-frowning-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/slightly-frowning-face.gif" height=100/>|
 |`face-with-tears-of-joy`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/face-with-tears-of-joy.gif"/>
 |`upside-down-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/upside-down-face.gif"/>
 |`winking-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/winking-face.gif"/>
