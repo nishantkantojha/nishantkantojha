@@ -4,8 +4,13 @@
 
 |`emoji-tag`|`emoji`|
 |---|---|
-|```anguished-face```|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/anguished-face.gif"/>|
+|`anguished-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/anguished-face.gif"/>|
 |`anxious-face-with-sweat`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/anxious-face-with-sweat.gif"/>|
+|`astonished-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/astonished-face.gif"/>|
+|`beaming-face-with-smiling-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/astonished-face.gif"/>|
+|`cold-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/cold-face.gif"/>|
+|`confounded-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/confounded-face.gif"/>|
+|`confused-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/confused-face.gif"/>|
 |`grinning-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face.gif"/>|
 |`grinning-face-with-big-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-big-eyes.gif"/>
 |`grinning-face-with-smiling-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-smiling-eyes.gif"/>
