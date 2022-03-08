@@ -11,6 +11,10 @@
 |`cold-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/cold-face.gif"/>|
 |`confounded-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/confounded-face.gif"/>|
 |`confused-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/confused-face.gif"/>|
+|`cowboy-hat-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/cowboy-hat-face.gif"/>|
+|`crying-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/crying-face.gif"/>|
+|`disappointed-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/disappointed-face.gif"/>|
+|`disguised-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/disguised-face.gif"/>|
 |`grinning-face`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face.gif"/>|
 |`grinning-face-with-big-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-big-eyes.gif"/>
 |`grinning-face-with-smiling-eyes`|<img src="https://raw.githubusercontent.com/nishantkantojha/nishantkantojha/main/tools/telegram-emoji/grinning-face-with-smiling-eyes.gif"/>
